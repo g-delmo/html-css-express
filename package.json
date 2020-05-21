@@ -1,0 +1,22 @@
+{
+  "name": "html-css-express",
+  "version": "1.0.0",
+  "description": "A simple template for websites made in HTML and CSS, with an Express.js back-end serving a public folder.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-delmo/html-css-express.git"
+  },
+  "author": "g-delmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-delmo/html-css-express/issues"
+  },
+  "homepage": "https://github.com/g-delmo/html-css-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
