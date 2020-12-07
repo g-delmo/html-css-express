@@ -4,7 +4,7 @@
   "description": "A simple template for websites made in HTML and CSS, with an Express.js back-end serving a public folder.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "open http://localhost:8080 && node app.js"
   },
   "repository": {
     "type": "git",
